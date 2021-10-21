@@ -8,3 +8,7 @@
 
 ## STEP 3: run segway on second pass tracks
 `segway`	
+
+
+## STEP 4: visualize track signals with R
+`visualizations`
